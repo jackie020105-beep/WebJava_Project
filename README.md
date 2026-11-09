@@ -7,4 +7,4 @@
 | 위치 | 용도 |
 | --- | --- |
 |[guides/](guides/commit-policy.md)|커밋 메시지 정책|
-|[docs/00_SRS/](docs/00_SRS/요구사항&기능명세서_v.1.xlsx) | 요구사항 및 기능명세서 |
+|[docs/00_SRS/](docs/00_SRS/) | 요구사항 및 기능명세서 |
