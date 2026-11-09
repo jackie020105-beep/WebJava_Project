@@ -4,8 +4,8 @@
 
 ## 자료와 작성 위치
 
-| 위치 | 용도 |
-| --- | --- |
-|[guides/](guides/commit-policy.md)|커밋 메시지 정책|
-|[docs/00_SRS/](docs/00_SRS/) | 요구사항 및 기능명세서 |
-|[docs/01_UseCase/](docs/01_UseCase/UseCase.drawio.png) | 유스케이스 |
+| 위치 | 파일명 | 용도 |
+| --- | --- | --- |
+|[guides/](guides/commit-policy.md)| commit-policy.md | 커밋 메시지 정책|
+|[docs/00_SRS/](docs/00_SRS/요구사항&기능명세서_v.1.xlsx) | 요구사항&기능명세서_v.1.xlsx | 요구사항 및 기능명세서 |
+|[docs/01_UseCase/](docs/01_UseCase/UseCase.drawio.png) | UseCase.drawio.png |유스케이스 |
