@@ -8,3 +8,4 @@
 | --- | --- |
 |[guides/](guides/commit-policy.md)|커밋 메시지 정책|
 |[docs/00_SRS/](docs/00_SRS/) | 요구사항 및 기능명세서 |
+|[docs/01_UseCase/](docs/01_UseCase/UseCase.drawio.png) | 유스케이스 |
