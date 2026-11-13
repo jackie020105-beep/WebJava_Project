@@ -8,4 +8,4 @@
 | --- | --- | --- | --- |
 |[guides/](guides/commit-policy.md)| commit-policy.md | 커밋 메시지 정책|  |
 |[docs/00_SRS/](docs/00_SRS/요구사항&기능명세서_v.2.xlsx) | 요구사항&기능명세서_v.2.xlsx | 요구사항 및 기능명세서 | [#1](https://github.com/jackie020105-beep/WebJava_Project/issues/1) |
-|[docs/01_UseCase/](docs/01_UseCase/UseCase.drawio.png) | UseCase.drawio.png | 유스케이스 | [#2](https://github.com/jackie020105-beep/WebJava_Project/issues/2) |
+|[docs/01_UseCase/](docs/01_UseCase) | UseCase.drawio.png | 유스케이스 | [#2](https://github.com/jackie020105-beep/WebJava_Project/issues/2) |
